@@ -1,3 +1,15 @@
+Portfolio Landing Page
+
+Scratch the react stuff for now. This is just a simple bootstraped design.
+
+![](src/svgs/readmeimg.png)
+
+Deployed on 
+Github pages: https://chekwa23.github.io/OkematiPortfolio/
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
