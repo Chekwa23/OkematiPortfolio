@@ -4,6 +4,9 @@ Scratch the react stuff for now. This is just a simple bootstraped design.
 
 ![](src/svgs/readmeimg.png)
 
+Deployed on 
+Github pages: https://chekwa23.github.io/OkematiPortfolio/
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
