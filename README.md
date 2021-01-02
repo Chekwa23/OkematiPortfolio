@@ -1,3 +1,12 @@
+Portfolio Landing Page
+
+Scratch the react stuff for now. This is just a simple bootstraped design.
+
+![](src/svgs/readmeimg.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
