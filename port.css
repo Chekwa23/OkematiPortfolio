@@ -1,7 +1,7 @@
 body{
-    background: url("./src/svgs/backgroundImage.jpeg");
-    /* background-repeat: no-repeat; */
-    /* background-size: cover; */
+    background: url("./src/svgs/backgroundImage.png");
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100vh;
 }
 .overlay{
@@ -26,6 +26,7 @@ body{
 }
 .mainbox .img1{
     position: absolute;
+    height: 100%;
 }
 
 i{
@@ -85,7 +86,6 @@ p{
 .row1 .col3{
     display: grid;
     grid-template-rows: 45% 55%;
-    /* background-color: brown; */
 }
 .col3top{
     display: grid;
