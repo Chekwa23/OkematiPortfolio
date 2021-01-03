@@ -1,5 +1,5 @@
 body{
-    background: url("./src/svgs/backgroundImage.png");
+    background: url("./svgs/backgroundImage.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -36,7 +36,16 @@ p{
     font-family:"AirbnbCerealLight";
     font-weight: 300;
 }
-
+.menu{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    /* background-color: red; */
+    justify-content: space-between;
+}
+.socials i{
+    color: #ffffff;
+}
 .top{
     height: 30%;
     /* background-color: red; */
@@ -47,6 +56,8 @@ p{
     display: flex;
     flex-direction: row;
     color: #32C069;
+    /* justify-content: center; */
+    /* align-items: center; */
 }
 .hello p{
     font-size: x-small;
@@ -57,7 +68,6 @@ p{
     font-size: 10vh;
     font-weight:"bold";
     font-family:"AirbnbCerealBold";
-    /* background-image: linear-gradient(45deg, #32C069, #4F97A3); */
     background-image: linear-gradient(135deg, #79F1A4 0%, #0E5CAD 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -80,7 +90,7 @@ p{
     grid-template-columns: 20% 20% 40% 20%;
 }
 .row1 .col1{
-    background: url(src/svgs/picture1.svg);
+    background: url(svgs/picture1.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -98,7 +108,7 @@ p{
     grid-template-columns: 35% 65%;
 }
 .musicpic{
-    background: url("src/svgs/picture3.svg") ;
+    background: url("svgs/picture3.svg") ;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -130,6 +140,7 @@ p{
     font-family:"AirbnbCerealBold";
     font-weight: 700;
     font-size: x-large;
+    border-radius: 0 !important;
 }
 .whitefont{
     color: #ffffff;
