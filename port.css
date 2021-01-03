@@ -53,11 +53,12 @@ p{
     letter-spacing: 3px;
 }
 .name p{
-    color: #32C069;
+    /* color: #32C069; */
     font-size: 10vh;
     font-weight:"bold";
     font-family:"AirbnbCerealBold";
-    background-image: linear-gradient(45deg, #32C069, #4F97A3);
+    /* background-image: linear-gradient(45deg, #32C069, #4F97A3); */
+    background-image: linear-gradient(135deg, #79F1A4 0%, #0E5CAD 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
